@@ -1,0 +1,5 @@
+13:04:18.895 [main] INFO  greenKart.base.base - KartPage opened succesfully
+13:04:20.557 [main] INFO  greenKart.base.base - search operation 1 of tc12_searchItems is passed
+13:04:20.723 [main] INFO  greenKart.base.base - click operation 1 of tc12_searchItems is passed
+13:04:25.909 [main] INFO  greenKart.base.base - item visible at first index is correct
+13:04:26.379 [main] INFO  greenKart.base.base - tc13_addToKartItems is passed
